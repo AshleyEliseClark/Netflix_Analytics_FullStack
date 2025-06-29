@@ -9,4 +9,4 @@ GROUP BY
     c.title
 ORDER BY 
     total_watch_time DESC
-LIMIT 5;
+LIMIT 10;

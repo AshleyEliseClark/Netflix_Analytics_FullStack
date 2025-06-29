@@ -1,0 +1,21 @@
+## Project Summary
+
+### What Was Done
+- **Data Cleaning:** Imported and cleaned Netflix content, ratings, users, and view history datasets.
+- **Exploratory Data Analysis (EDA):** Explored dataset shapes, checked for missing values, and merged relevant tables.
+- **Visualizations:** Created bar plots and histograms to analyze top content, genre distribution, user watch time, ratings distribution, and user signup trends.
+
+### Key Findings
+- **Top Genres:** Thriller, Romance, and Documentary are the most-watched genres.
+- **User Trends:** User watch time varies widely, with some users watching significantly more than others. User signups are distributed throughout the year.
+- **Content Insights:** Identified the most-watched and highest-rated content (with at least 10 ratings).
+
+### Tools Used
+- **Python** for data analysis and scripting
+- **pandas** for data manipulation
+- **matplotlib** and **seaborn** for visualization
+- **Jupyter Notebook** for interactive analysis
+
+### Next Steps
+- **Predictive Modeling:** Build models to predict user ratings or recommend content based on user preferences.
+- **Recommendation System:** Implement collaborative or content-based filtering to suggest shows to users.
