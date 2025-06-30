@@ -57,4 +57,4 @@ Project Status
 
 
 Author
-Ashley Elise Clark Business Intelligence Analyst Spring 2025 Portfolio Edition
+Ashley Elise Clark Business Intelligence Analyst Spring 2025 Portfolio
