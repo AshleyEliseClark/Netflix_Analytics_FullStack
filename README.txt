@@ -14,7 +14,8 @@ Delivered a portfolio-ready solution integrating storytelling, KPIs, and audienc
 Key Business Questions Explored
 User Behavior How does total watch time vary across users, and what viewing behaviors signal low or high engagement?
 Churn Analysis Which regions show higher churn risk, and how should retention strategies differ by geography?
-Content Strategy What shows are driving the most total watch time and completion? Which genres underperform in ratings?
+Content Strategy What shows are driving the most total watch time and completion? 
+Which genres underperform in ratings?
 Acquisition Trends Are there seasonal patterns in user signups? What’s the trajectory of platform growth over time?
 Viewer Sentiment What genres receive the highest average user ratings? How does this influence curation strategy?
 
