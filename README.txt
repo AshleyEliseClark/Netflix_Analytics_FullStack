@@ -11,7 +11,7 @@ Used Python for ETL processing, churn metrics, and exploratory analysis
 Created Tableau and Power BI dashboards to visualize content performance, user retention, and regional insights
 Delivered a portfolio-ready solution integrating storytelling, KPIs, and audience insights
 
-## Key Business Questions Explored ##
+Key Business Questions Explored
 User Behavior How does total watch time vary across users, and what viewing behaviors signal low or high engagement?
 Churn Analysis Which regions show higher churn risk, and how should retention strategies differ by geography?
 Content Strategy What shows are driving the most total watch time and completion? 
