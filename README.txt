@@ -23,10 +23,11 @@ Folder Structure
 Netflix_Analytics_Project/
 ├── data/               # Raw + processed data
 ├── sql/                # PostgreSQL scripts + queries
-├── scripts/            # Python for ETL + analytics
+├── eda/                # Python for ETL + analytics
 ├── notebooks/          # Jupyter notebooks for EDA
 ├── dashboards/         # Tableau/Power BI + screenshots
-├── docs/               # ERD, architecture, roadmap
+├── erd/                # ERD, architecture, roadmap
+├── ml                  # Machine learning, clustering
 └── README.md
 
 
